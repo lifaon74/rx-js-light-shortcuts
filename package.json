@@ -1,0 +1,19 @@
+{
+  "name": "@lifaon/rx-js-light-shortcuts",
+  "version": "1.0.0",
+  "description": "Shortcuts for ry-js-light",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifaon74/rx-js-light-shortcuts"
+  },
+  "keywords": [
+    "sortcut",
+    "ry-js-light"
+  ],
+  "author": "Valentin Richard",
+  "license": "MIT",
+  "access": "public",
+  "dependencies": {
+    "@lifaon/rx-js-light": "^1.0.0"
+  }
+}
