@@ -1,3 +1,4 @@
+export * from './emit-pipe/index';
 export * from './from/index';
 export * from './i18n/index';
 export * from './piping/index';
