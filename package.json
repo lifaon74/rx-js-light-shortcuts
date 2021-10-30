@@ -1,6 +1,6 @@
 {
   "name": "@lifaon/rx-js-light-shortcuts",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Shortcuts for rx-js-light",
   "repository": {
     "type": "git",
@@ -14,6 +14,6 @@
   "license": "MIT",
   "access": "public",
   "dependencies": {
-    "@lifaon/rx-js-light": "^1.2.0"
+    "@lifaon/rx-js-light": "^1.2.1"
   }
 }
